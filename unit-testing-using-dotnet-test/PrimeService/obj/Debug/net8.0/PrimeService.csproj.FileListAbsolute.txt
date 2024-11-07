@@ -1,0 +1,11 @@
+E:\OneDrive\02 - UCL\00 - IT SIKKERHED\02 - VS_CODE\IT\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net8.0\PrimeService.deps.json
+E:\OneDrive\02 - UCL\00 - IT SIKKERHED\02 - VS_CODE\IT\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net8.0\PrimeService.dll
+E:\OneDrive\02 - UCL\00 - IT SIKKERHED\02 - VS_CODE\IT\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net8.0\PrimeService.pdb
+E:\OneDrive\02 - UCL\00 - IT SIKKERHED\02 - VS_CODE\IT\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\02 - UCL\00 - IT SIKKERHED\02 - VS_CODE\IT\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\PrimeService.AssemblyInfoInputs.cache
+E:\OneDrive\02 - UCL\00 - IT SIKKERHED\02 - VS_CODE\IT\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\PrimeService.AssemblyInfo.cs
+E:\OneDrive\02 - UCL\00 - IT SIKKERHED\02 - VS_CODE\IT\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\PrimeService.csproj.CoreCompileInputs.cache
+E:\OneDrive\02 - UCL\00 - IT SIKKERHED\02 - VS_CODE\IT\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\PrimeService.dll
+E:\OneDrive\02 - UCL\00 - IT SIKKERHED\02 - VS_CODE\IT\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\refint\PrimeService.dll
+E:\OneDrive\02 - UCL\00 - IT SIKKERHED\02 - VS_CODE\IT\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\PrimeService.pdb
+E:\OneDrive\02 - UCL\00 - IT SIKKERHED\02 - VS_CODE\IT\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\ref\PrimeService.dll
